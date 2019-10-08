@@ -7,3 +7,10 @@ body {
     text-align: center;
     font-size: 50px;
 }
+
+#Table {
+    margin-right: 200px;
+    position: static;
+    float: right;
+}
+
